@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555877054 source:c:\users\serv\documents\trabalhotadgenérico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"TADGenerico.h"
+
+1555708197 c:\users\serv\documents\trabalhotadgenérico\tadgenerico.h
+
+1555708084 source:c:\users\serv\documents\trabalhotadgenérico\tadgenerico.c
+	<stdlib.h>
+	<string.h>
+	"TADGenerico.h"
+
